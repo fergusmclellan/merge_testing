@@ -1,0 +1,3 @@
+if (status == 200) {
+    alert("success")
+}
