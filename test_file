@@ -1,3 +1,0 @@
-if (status >= 200 && status < 300) {
-    alert("success")
-}
